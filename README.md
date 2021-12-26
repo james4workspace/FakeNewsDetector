@@ -7,3 +7,6 @@ The DataSet was separated into `True.csv` and `Fake.csv` already. After importin
 
 | index | title  | text | subject | date |
 | ------------- | ------------- | ------------- | ------------- |------------- |
+| type: integer | type: string | type: string | type: string | type: string|
+
+
