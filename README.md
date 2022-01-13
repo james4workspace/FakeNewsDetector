@@ -28,4 +28,4 @@ For Deep Leaning Model such as LSTM, CNN, it's better to store all the vectors w
 For training models part, I chose XGBoost as baseline model, because normally XGBoost works pretty well in such topics by categorizing attributes as multiple trees for classification. And I chose BiLSTM based on my previous experience, because time-series deep learning model can always work well in NLP projects. And if we take text as the sentence spoken by someone, it's obvious that the context changed by the time. Therefore, considering the former part of text can be very important for training. Choosing 1dCNN is also according to the same reason, because if we take text as a whole picture, we can different parts of the sentence make up the final significance of the sentence. Thus, CNN, especially 1dCNN can work pretty well in NLP project.
 
 
-
+so
